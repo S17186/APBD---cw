@@ -1,0 +1,14 @@
+{ "Studies": "Informatyka", "Semester": 6}
+
+
+{ "Studies": "Informatyka", "Semester": 6}
+
+
+
+{ "Studies": "Informatyka", "Semester": 6}
+{ "Studies": "Informatyka", "Semester": 6}
+
+
+
+
+
